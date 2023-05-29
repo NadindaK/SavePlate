@@ -19,7 +19,7 @@ SavePlate is a mobile application that can help people manage their excess food,
 |           Learning Path         |               Link               |      
 | :----------------------------: | :------------------------------: |
 Machine Learning | - 
-Mobile Development | - 
+Mobile Development | [MD-Github](https://github.com/NadindaK/SavePlate-MobileDevelopment)
 Cloud Computing | -
 
 
